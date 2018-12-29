@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="913" started-at="2018-12-18T19:16:37Z" finished-at="2018-12-18T19:16:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="913" started-at="2018-12-18T19:16:37Z" finished-at="2018-12-18T19:16:38Z">
+      <class name="com.selenium.framework.datadriven.suiteA.Test5">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test5@26ba2a48]" name="test1" duration-ms="1" started-at="2018-12-18T19:16:38Z" finished-at="2018-12-18T19:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.selenium.framework.datadriven.suiteA.Test5 -->
+      <class name="com.selenium.framework.datadriven.suiteA.Test4">
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test4@42d3bd8b]" name="test4" duration-ms="0" started-at="2018-12-18T19:16:38Z" finished-at="2018-12-18T19:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.selenium.framework.datadriven.suiteA.Test4 -->
+      <class name="com.selenium.framework.datadriven.suiteA.Test3">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test3@dfd3711]" name="test3" duration-ms="0" started-at="2018-12-18T19:16:38Z" finished-at="2018-12-18T19:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.selenium.framework.datadriven.suiteA.Test3 -->
+      <class name="com.selenium.framework.datadriven.suiteA.Test2">
+        <test-method status="PASS" signature="test2(java.util.Hashtable)[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test2@38082d64]" name="test2" duration-ms="58" started-at="2018-12-18T19:16:38Z" data-provider="getData" finished-at="2018-12-18T19:16:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Col4=C14, Col3=C13, Col2=C12, Col1=C11, Runmode=Y, Result=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.selenium.framework.datadriven.suiteA.Test2 -->
+      <class name="com.selenium.framework.datadriven.suiteA.Test1">
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test1@79698539]" name="test1" duration-ms="80" started-at="2018-12-18T19:16:38Z" data-provider="getData" finished-at="2018-12-18T19:16:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Col4=C14, Col3=C13, Col2=C12, Col1=C11, Runmode=Y, Result=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test1@79698539]" name="test1" duration-ms="57" started-at="2018-12-18T19:16:38Z" data-provider="getData" finished-at="2018-12-18T19:16:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Col4=C24, Col3=C23, Col2=C22, Col1=C21, Runmode=N, Result=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test1@79698539]" name="test1" duration-ms="55" started-at="2018-12-18T19:16:38Z" data-provider="getData" finished-at="2018-12-18T19:16:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Col4=C34, Col3=C33, Col2=C32, Col1=C31, Runmode=Y, Result=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.selenium.framework.datadriven.suiteA.Test1@79698539]" name="test1" duration-ms="57" started-at="2018-12-18T19:16:38Z" data-provider="getData" finished-at="2018-12-18T19:16:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Col4=C44, Col3=C43, Col2=C42, Col1=C41, Runmode=Y, Result=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.selenium.framework.datadriven.suiteA.Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
